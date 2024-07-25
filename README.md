@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A quick learner and a coding enthusiast</h3>
 
 - 📫 How to reach me **ayushisingh003366@gmail.com**
 
